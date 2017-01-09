@@ -7,4 +7,5 @@
  ### screenshot -- you use the following code: "<p align="center">" and then link in < and > and then "/p"
 
   - you can make smile with :smile: (colons on either side of word)
-  
+
+### Check out this website for [Markdown Formatting](https://guides.github.com/features/mastering-markdown/)
