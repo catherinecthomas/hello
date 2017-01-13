@@ -26,5 +26,7 @@ NB: make Heading 2 w 3 hashtags
  
 #### Step 4: create .gitignore hidden file
 
+#### Step 5: create a commit and revert 
+
 ## Contact
 [Catherine Thomas](ccthomas@stanford.edu "ccthomas@stanford.edu")
